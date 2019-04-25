@@ -14,11 +14,11 @@ except ModuleNotFoundError:
 	exit()
 
 banner=("""\033[1;36m
-     _  _
-   _| || |_  \033[1;32mSEPAM ESEMES (UPDATE)\033[1;36m
-  |_  ..  _|
-  |_      _| \033[1;31mContact=>https://m.facebook.com/foul.adnan\033[1;36m
-    |_||_|   \033[1;31mGithub=>https://github.com/raihan992
+        
+           \033[1;32mSpam Sms v1.2\033[1;36m
+            
+           \033[1;31mContact=>https://m.facebook.com/foul.adnan\033[1;36m
+           \033[1;31mGithub=>https://github.com/raihan992
 """)
 
 os.system('clear')
